@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(11, 11, 10);
+}
+
+h1 {
+    color: #ec5353;
+    display: flex;
+    align-items: center;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: white; 
+}
+
+h1.ba {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.banana {
+    text-align: center;
+}
+
+img.banana {
+    width: 300px;
+    height: 240px;
+    display: flex;
+}
+
+div {
+    display: flex;
+    justify-content: space-around;
+}
+
+div.k {
+    display: flex;
+    justify-content: space-around;
+}
+
+label {
+    color: antiquewhite;
+    text-align: center;
+}
+
+div.ref {
+    display: flex;
+    justify-content: space-evenly;
+}

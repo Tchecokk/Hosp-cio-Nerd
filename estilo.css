@@ -1,0 +1,20 @@
+body{
+    padding: 20px;
+    height: 30px;
+    font-family: "Montserrat";
+    color: #404040;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    top: 290px;
+    background-image: url(https://img.freepik.com/vetores-gratis/paisagem-noturna-do-oceano-lua-cheia-e-estrelas-brilham_107791-7397.jpg);
+    background-size: 1400px;
+  }
+
+form {
+  padding: 35px;
+  background-color: beige;
+  border-radius: 10px;
+}
+
